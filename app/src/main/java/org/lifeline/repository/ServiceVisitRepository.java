@@ -10,5 +10,6 @@ import java.util.List;
 public interface ServiceVisitRepository extends JpaRepository<ServiceVisit, Long> {
 
     List<ServiceVisit> findByDonorId(Long donorId);
+    
 
 }

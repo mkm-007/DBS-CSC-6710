@@ -12,7 +12,7 @@ const types = [
   { value: "B_NEGATIVE", label: "B-" },
   { value: "AB_POSITIVE", label: "AB+" },
   { value: "AB_NEGATIVE", label: "AB-" },
-  { value: "O_POSITIVE", label: "O-" },
+  { value: "O_POSITIVE", label: "O+" },
   { value: "O_NEGATIVE", label: "O-" },
 ];
 
